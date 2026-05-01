@@ -15,3 +15,6 @@ and I want to be the one building it — not watching.
 
 ## Tools I'm learning
 Python · NumPy · Pandas · scikit-learn · TensorFlow · OpenAI API
+
+## Work log
+01 May - I am working on GIT commands
